@@ -1,4 +1,4 @@
-# Kongames
+# React Seed
 
 ## Estructura
 
